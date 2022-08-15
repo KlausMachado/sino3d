@@ -11,4 +11,4 @@
     $ npm install
 
     # Iniciar o projeto
-    $ npm start
+    $ npm run dev
